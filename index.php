@@ -4,6 +4,7 @@
 * Description: REST API for bbPress
 * Version: 1.0
 * Author: Drew Winkles
+* Author URI: https://github.com/stinklewinks/bbpress-rest-api
 * 
 */
 
