@@ -1,4 +1,4 @@
-# bbPress REST API Plugin
+# Forum REST API
 
 **Version**: 1.0  
 **Author**: Drew Winkles  
